@@ -4,3 +4,6 @@ is me.
 
 
 i like it.
+
+bean
+chicken
